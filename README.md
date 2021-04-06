@@ -8,7 +8,7 @@ Follow the following steps:
   "user" table:
 
   id: {  
-    &emsp;type: int, 
+    &emsp;type: int,  
     &emsp;autoIncrement: true,  
     &emsp;allowNull: false,  
     &emsp;primaryKey: true  
