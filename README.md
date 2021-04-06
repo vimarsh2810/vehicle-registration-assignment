@@ -23,7 +23,7 @@ Follow the following steps:
     &emsp;unique: true  
   },  
   password: {  
-    &emsp;type: Sequelize.STRING,  
+    &emsp;type: varchar(100), 
     &emsp;allowNull: false  
   },  
   stateId: {  
